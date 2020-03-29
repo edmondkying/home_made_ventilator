@@ -33,11 +33,11 @@ step 3) turn on the power strip
 
 Parts:  (total should be about $50 USD)
 
-https://www.amazon.com/gp/product/B073DYD97C/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1  x 1
+https://www.amazon.com/gp/product/B073DYD97C  x 1
 
-https://www.amazon.com/gp/product/B07F7Y55Z7/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1  x  1 
+https://www.amazon.com/gp/product/B07F7Y55Z7  x  1 
 
-https://www.amazon.com/gp/product/B07F3FTCXB/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1  x 2
+https://www.amazon.com/gp/product/B07F3FTCXB  x 2
 
 https://www.vitalitymedical.com/cardinalhealth-adult-single-limb-portable-ventilator-circuit.html x 1 
 
