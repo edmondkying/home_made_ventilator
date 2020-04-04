@@ -1,4 +1,4 @@
-# home_made_ventilator
+# home_made_ventilator_air_pumps
 Home made ventilator made with off the shelf parts for less than $50 with no 3D printed parts whatsoever.  Just these parts and 5 minutes. 
 
 video: https://www.youtube.com/watch?v=nvoyV9RNvaw
